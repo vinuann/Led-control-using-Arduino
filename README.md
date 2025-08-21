@@ -1,5 +1,8 @@
 # Led-control-using-Arduino
 
+NAME: VINUTHAA NN
+REG NO: 212224040362
+
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
